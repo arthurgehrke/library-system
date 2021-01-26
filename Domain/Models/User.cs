@@ -1,6 +1,6 @@
 using System;
 
-namespace library_system.Models
+namespace library_system.Domain.Models
 {
   public class User
   {
